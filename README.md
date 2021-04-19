@@ -1,4 +1,6 @@
-# Markdown Cheat Sheet (Based on [The Markdown Guide](https://www.markdownguide.org))
+# Markdown Cheat Sheet 
+
+Based on [The Markdown Guide](https://www.markdownguide.org) and [Markdown for Dummies](https://medium.com/@taylorhxu/markdown-for-dummies-a24e982b8e85)
 
 For more information: visit [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax)
 
