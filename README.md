@@ -4,7 +4,7 @@ For more information: visit [basic syntax](https://www.markdownguide.org/basic-s
 
 ---
 
-**Syntax Wanted:**
+**Syntax Wanted: Heading - H1**
 
 # Heading - H1
 
@@ -16,7 +16,7 @@ For more information: visit [basic syntax](https://www.markdownguide.org/basic-s
 
 ---
 
-**Syntax Wanted:**
+**Syntax Wanted: Heading - H2**
 
 ## Heading - H2
 
@@ -28,7 +28,7 @@ For more information: visit [basic syntax](https://www.markdownguide.org/basic-s
 
 ---
 
-**Syntax Wanted:**
+**Syntax Wanted: Heading - H3**
 
 ### Heading - H3
 
@@ -40,7 +40,7 @@ For more information: visit [basic syntax](https://www.markdownguide.org/basic-s
 
 ---
 
-**Syntax Wanted:**
+**Syntax Wanted: Bold Text**
 
 **bold text**
 
@@ -52,7 +52,7 @@ For more information: visit [basic syntax](https://www.markdownguide.org/basic-s
 
 ---
 
-**Syntax Wanted:**
+**Syntax Wanted: Italicized Text**
 
 *italicized text*
 
@@ -65,7 +65,7 @@ For more information: visit [basic syntax](https://www.markdownguide.org/basic-s
 
 ---
 
-**Syntax Wanted:**
+**Syntax Wanted: Blockquote**
 
 > blockquote
 
