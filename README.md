@@ -11,12 +11,12 @@ These are the elements outlined in John Gruber’s original design document. All
 ### Heading
 
 
-Code:
+**Code:**
 ```markdown
 # H1
 ```
 
-Result:
+**Result:**
 # H1
 
 ---
