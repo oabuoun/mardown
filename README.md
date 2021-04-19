@@ -117,7 +117,7 @@ For more information: visit [basic syntax](https://www.markdownguide.org/basic-s
 **Code:**
 
 ```markdown
-`code`
+`code block`
 
 ```
 
@@ -162,8 +162,6 @@ For more information: visit [basic syntax](https://www.markdownguide.org/basic-s
 
 ---
 
----
-
 **Syntax Wanted: Table**
 
 | Syntax | Description |
@@ -195,11 +193,13 @@ For more information: visit [basic syntax](https://www.markdownguide.org/basic-s
 **Code:**
 
 ```markdown
+```
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
+```
 ```
 
 ---
