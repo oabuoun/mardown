@@ -10,22 +10,27 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Heading
 
+**Syntax Wanted:**
+
+# H1
 
 **Code:**
 ```markdown
 # H1
 ```
 
-**Result:**
-# H1
-
 ---
+
+**Syntax Wanted:**
+
 ## H2
 
 How to 
 ```markdown
 # H2
 ```
+
+**Syntax Wanted:**
 
 ### H3
 
@@ -35,6 +40,7 @@ How to
 ```
 
 ### Bold
+**Syntax Wanted:**
 
 **bold text**
 
