@@ -9,6 +9,7 @@ For more information: visit [basic syntax](https://www.markdownguide.org/basic-s
 # Heading - H1
 
 **Code:**
+
 ```markdown
 # Heading - H1
 ```
@@ -17,130 +18,161 @@ For more information: visit [basic syntax](https://www.markdownguide.org/basic-s
 
 **Syntax Wanted:**
 
-## H2
+## Heading - H2
 
-How to 
+**Code:**
+
 ```markdown
-# H2
+# Heading - H2
 ```
+
+---
 
 **Syntax Wanted:**
 
-### H3
+### Heading - H3
 
-How to 
+**Code:**
+
 ```markdown
-# H3
+# Heading - H3
 ```
 
-### Bold
+---
+
 **Syntax Wanted:**
 
 **bold text**
 
-How to 
+**Code:**
+
 ```markdown
 **bold text**
 ```
 
-### Italic
+---
+
+**Syntax Wanted:**
 
 *italicized text*
 
-How to 
+**Code:**
+
 ```markdown
 *italicized text*
 
 ```
-### Blockquote
+
+---
+
+**Syntax Wanted:**
 
 > blockquote
 
-How to 
+**Code:**
+
 ```markdown
 > blockquote
 
 ```
 
-### Ordered List
+---
+
+**Syntax Wanted: Ordered List **
 
 1. First item
 2. Second item
 3. Third item
 
-How to 
+**Code:**
+
 ```markdown
 1. First item
 2. Second item
 3. Third item
 ```
 
-### Unordered List
+---
+
+**Syntax Wanted: Unordered List**
 
 - First item
 - Second item
 - Third item
 
-How to 
+**Code:**
+
 ```markdown
 - First item
 - Second item
 - Third item
 ```
 
-### Code
+---
 
-`code`
+**Syntax Wanted: code block**
 
+`code block`
 
-How to 
+**Code:**
+
 ```markdown
 `code`
 
 ```
-
-### Horizontal Rule
 
 ---
 
-How to 
+**Syntax Wanted: Horizontal Rule**
+
+---
+
+**Code:**
+
 ```markdown
 ---
 
 ```
 
-### Link
+---
+
+**Syntax Wanted: Link**
 
 [title](https://www.example.com)
 
-How to 
+**Code:**
+
 ```markdown
 [title](https://www.example.com)
 
 ```
 
-### Image
+---
+
+**Syntax Wanted: Image**
 
 ![alt text](image.jpg)
 
-How to 
+**Code:**
+
 ```markdown
 ![alt text](image.jpg)
 
 ```
 
-## Extended Syntax
+---
 
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+---
 
-### Table
+**Syntax Wanted: Table**
 
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
 
-How to 
+**Code:**
+
 ```markdown
 | Syntax | Description |
 | ----------- | ----------- |
@@ -148,7 +180,9 @@ How to
 | Paragraph | Text |
 ```
 
-### Fenced Code Block
+---
+
+**Syntax Wanted: Fenced Code Block**
 
 ```
 {
@@ -158,7 +192,8 @@ How to
 }
 ```
 
-How to 
+**Code:**
+
 ```markdown
 {
   "firstName": "John",
@@ -167,13 +202,16 @@ How to
 }
 ```
 
-### Footnote
+---
+
+**Syntax Wanted: Footnote**
 
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
-How to 
+**Code:**
+
 ```markdown
 Here's a sentence with a footnote. [^1]
 
@@ -181,43 +219,55 @@ Here's a sentence with a footnote. [^1]
 
 ```
 
-### Heading ID
+---
+
+**Syntax Wanted: Heading ID**
 
 ### My Great Heading {#custom-id}
 
-How to 
+**Code:**
+
 ```markdown
 ### My Great Heading {#custom-id}
 
 ```
 
-### Definition List
+---
+
+**Syntax Wanted: Definition List**
 
 term
 : definition
 
-How to 
+**Code:**
+
 ```markdown
 term
 : definition
 ```
 
-### Strikethrough
+---
+
+**Syntax Wanted: Strikethrough**
 
 ~~The world is flat.~~
 
-How to 
+**Code:**
+
 ```markdown
 ~~The world is flat.~~
 ```
 
-### Task List
+---
+
+**Syntax Wanted: Task List**
 
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
 
-How to 
+**Code:**
+
 ```markdown
 - [x] Write the press release
 - [ ] Update the website
